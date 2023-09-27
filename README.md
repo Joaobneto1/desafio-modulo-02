@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
+Aluno - João Batista Neto
+
 # Desafio | Back-end - Módulo 2
 
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
