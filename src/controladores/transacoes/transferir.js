@@ -49,7 +49,7 @@ const transferir = (req, res) => {
 
     dados.transferencias.push(extratoTranferencia);
 
-    return res.status(200).json({ mensagem: 'Transferência realizado com sucesso' });
+    return res.status(200).json({ mensagem: 'A transferência foi realizado com sucesso' });
 };
 
 module.exports = transferir;
