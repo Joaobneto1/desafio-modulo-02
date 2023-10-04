@@ -30,7 +30,7 @@ const depositarSaldo = (req, res) => {
 
     dados.depositos.push(extratoDoDeposito);
 
-    res.status(200).json({ mensagem: 'O valor foi depositado com sucesso.' });
+    return res.status(200).json({ mensagem: 'O valor foi depositado com sucesso.' });
 };
 
 module.exports = depositarSaldo;
